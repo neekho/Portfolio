@@ -137,19 +137,7 @@
     background-size: cover;
   }
 
-  .feature-icon {
-    display: inline-flex;
-    align-items: center;
-    justify-content: center;
-    width: 4rem;
-    height: 4rem;
-    margin-bottom: 1rem;
-    font-size: 2rem;
-    color: #fff;
-    border-radius: .75rem;
 
-    background: url("https://www.meme-arsenal.com/memes/712c169e5a7c5b66a44bff56f649796b.jpg");
-}
 
 .bg-primary {
     --bs-bg-opacity: 5;
