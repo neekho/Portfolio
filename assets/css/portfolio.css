@@ -6,6 +6,10 @@
 .container {
     max-width: 960px;
   }
+
+  a {
+    text-decoration: none;
+  }
   
   /*
    * Custom translucent site header
